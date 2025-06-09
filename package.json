@@ -17,6 +17,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "test:html": "react-scripts test --watchAll=false --coverage",
+    "open-reports": "node open-reports.js",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
